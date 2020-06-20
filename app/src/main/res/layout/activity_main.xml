@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+<!--    <Button-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:text="Show Name"-->
+<!--        android:layout_marginTop="80dp"-->
+<!--        android:layout_marginLeft="80dp"-->
+<!--        android:onClick="keTiga"-->
+<!--        android:layout_height="wrap_content"/>-->
+
+<!--    <Button-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:text="Insert"-->
+<!--        android:layout_marginTop="80dp"-->
+<!--        android:layout_marginLeft="220dp"-->
+<!--        android:onClick="kirimEmpat"-->
+<!--        android:layout_height="wrap_content"/>-->
+
+    <Button
+        android:layout_width="wrap_content"
+        android:text="list"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="seeList"
+        android:layout_height="wrap_content"/>
+
+
+
+</RelativeLayout>
